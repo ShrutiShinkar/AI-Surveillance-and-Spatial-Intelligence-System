@@ -28,7 +28,7 @@ An elite-grade Geospatial Intelligence (GEOINT) surveillance platform capable of
 
 ## 🧠 System Architecture
 
-![System Architecture](docs/system architecture.png)
+![System Architecture](docs/system_architecture.png)
 
 ## 🛠️ Tech Stack
 
