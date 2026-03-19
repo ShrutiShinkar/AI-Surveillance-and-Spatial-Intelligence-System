@@ -87,7 +87,4 @@ An elite-grade Geospatial Intelligence (GEOINT) surveillance platform capable of
 
 Cloud-based scalable deployment
 
-## 📌 Conclusion
-
-This project demonstrates how multiple AI techniques can be integrated into a unified system for intelligent monitoring and analysis. It highlights the potential of combining computer vision, spatial intelligence, and predictive analytics to build scalable real-world solutions.
 ---
